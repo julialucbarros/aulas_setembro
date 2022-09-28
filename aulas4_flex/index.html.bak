@@ -2,15 +2,15 @@
 <html lang = "pt-br">
 <head>
     <meta charset = "utf-8">
-    <title>PROJETO</title>
+    <title>Exercicios de Facilitação</title>
     <link type= "text/css" href = "css/estilo.css" rel ="stylesheet"></href>
 </head>
 <body>
 <div class="container">
-    <div class ="item1">FlexTurismos</div>
-    <div class ="item">Quem Somos</div>
-    <div class ="item2">Serviços</div>
-    <div class ="item">Planos</div>
+    <div class ="item1">MÓDULOS</div>
+    <div class ="item">MODULO 1</div>
+    <div class ="item">MODULO 2</div>
+    <div class ="item">MODULO 3</div>
 </div>
 </body>
 </html>
